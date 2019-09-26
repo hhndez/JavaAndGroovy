@@ -5,6 +5,7 @@
 *.war
 *.ear
 
+.idea
 .gradle
 /build/
 !gradle-wrapper.jar

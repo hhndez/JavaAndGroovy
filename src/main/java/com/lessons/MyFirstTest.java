@@ -1,4 +1,4 @@
-package com.test;
+package com.lessons;
 
 public class MyFirstTest {
     public static void main(String ...args) {
